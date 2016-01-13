@@ -1,0 +1,14 @@
+[user]
+	name = Scott Sollows
+	email = scott@attendease.com
+[core]
+	editor = atom
+	excludesfile = /opt/boxen/config/git/gitignore
+
+[hub]
+protocol = https
+[push]
+	default = current
+
+[credential]
+helper = /opt/boxen/bin/boxen-git-credential

@@ -1,0 +1,10 @@
+"*":
+  "exception-reporting":
+    userId: "04c947d8-f021-47f1-119e-d9af680aac2f"
+  welcome:
+    showOnStartup: false
+  core: {
+      customFileTypes: {"source.ruby": ["pp"]}
+  }
+  editor:
+    invisibles: {}
