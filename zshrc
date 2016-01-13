@@ -87,4 +87,7 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 alias e="atom -nw"
+alias g="grep"
+alias ls="ls -al"
+
 [ -f /opt/boxen/env.sh ] && source /opt/boxen/env.sh
